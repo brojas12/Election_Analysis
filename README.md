@@ -47,6 +47,6 @@
     other candidates or counties. 
 
 'Show Images
-![](Election_Analysis/Resources/Election_Analysis_Results.png)
+![](Resources/Election_Analysis_Results.png)
 
 
